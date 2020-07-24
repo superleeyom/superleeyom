@@ -2,7 +2,6 @@
 
 
 <p  align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mmphego.mmphego" alt="visitor badge"/></br>
   <img src="https://github-readme-stats.vercel.app/api/?username=superleeyom&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
 </p>
 
