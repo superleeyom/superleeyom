@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-<p  align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=superleeyom&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
-</p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
