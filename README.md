@@ -14,7 +14,7 @@ Skills: Java / MySQL / Microservices / Redis / MongoDB / Git / Maven / Docker / 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=superleeyom)](https://github.com/ryo-ma/github-profile-trophy)
 
-|                   **Most Used Languages**                    |                **Leeyom Wang's Github Stats**                |
+|                   **Leeyom Most Used Languages**                    |                **Leeyom's Github Stats**                |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <a href="https://github.com/superleeyom/superleeyom"><br/>  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superleeyom&hide=html&hide_border=true&hide_title=true" /><br/></a> | <a href="https://github.com/superleeyom/superleeyom"><br/>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=superleeyom&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true" /><br/></a> |
 
