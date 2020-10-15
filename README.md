@@ -5,7 +5,7 @@ I like writing code👨‍💻 and also also like cycling 🚴‍♂️, running
 Skills: Java / MySQL / Microservices / Redis / MongoDB / Git / Maven / Docker / Nginx
 
 - 🔭 I’m currently working on I’m currently working on consistently writing to take note of my progress in daily productivity because I struggle with procrastination. 
-- 🌱 I’m currently learning Java Microservice, Python. 
+- 🌱 I’m currently learning Java, Microservice, Python. 
 - 💬 Ask me about sports, chinese litterature, film, anime, digital products. 
 - 📫 How to reach me: leeyomwang@163.com. 
 - 😄 Pronouns: He/Him 
@@ -15,7 +15,7 @@ Skills: Java / MySQL / Microservices / Redis / MongoDB / Git / Maven / Docker / 
 [![trophy](https://github-profile-trophy.vercel.app/?username=superleeyom)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/superleeyom/superleeyom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superleeyom&hide=html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superleeyom&hide=html&layout=compact" />
 </a>
 <a href="https://github.com/superleeyom/superleeyom">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=superleeyom&show_icons=true&count_private=true&include_all_commits=true" />
