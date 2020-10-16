@@ -3,7 +3,7 @@ My name is Leeyom, I'm a Java Developer from China🇨🇳 , ShenZhen.
 I like writing code👨‍💻 and also like cycling 🚴‍♂️, running 🏃🏻‍♂️, swimming 🏊🏻‍♂️ .
 
 - ⚔️ My Skills: Java / MySQL / Microservices / Redis / MongoDB / Git / Maven / Docker / Nginx
-- 🔭 I’m currently working on I’m currently working on consistently writing to take note of my progress in daily productivity because I struggle with procrastination. 
+- 🔭 I’m currently working on consistently writing to take note of my progress in daily productivity because I struggle with procrastination. 
 - 🌱 I’m currently learning Java, Microservice, Python. 
 - 💬 Ask me about sports⚽️ , chinese litterature🇨🇳 , film🎬 , anime📺 , digital products🖥 . 
 - 📫 How to reach me: leeyomwang@163.com. 
