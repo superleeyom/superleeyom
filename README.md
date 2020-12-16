@@ -9,7 +9,7 @@ I like writing code👨‍💻 and also like cycling 🚴‍♂️, running 🏃
 - 📫 How to reach me: leeyomwang@163.com. 
 - 😄 Pronouns: He/Him 
 - 🤩 keep learning, keep thinking, keep running.
-- 🏃 My Keep Running Record：https://running.leeyom.top
+- 🏃 My Running Record：https://running.leeyom.top
 
 |                   **Most Used Languages**                    |                **Github Stats**                |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
