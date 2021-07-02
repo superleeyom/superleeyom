@@ -1,15 +1,13 @@
 ### Hi there 👋
-My name is Leeyom, I'm a Backend Engineer from China🇨🇳 , ShenZhen. 
-I like writing code👨‍💻 and also like cycling 🚴‍♂️, running 🏃🏻‍♂️, swimming 🏊🏻‍♂️ .
+我叫 Leeyom, 目前是一名后端（Java）开发工程师。 
+我喜欢：跑步🏃🏻 、游泳🏊🏻 、骑行🚴🏻 、看书📖 、看电影🎬 。
 
-- ⚔️ My Skills: Java / MySQL / Microservices / Redis / MongoDB / Git / Maven / Docker / Nginx etc.
-- 🔭 I’m currently working on consistently writing to take note of my progress in daily productivity because I struggle with procrastination. 
-- 🌱 I’m currently learning Java, Microservice, Python. 
-- 💬 Ask me about sports🏃🏻‍♂️ , chinese litterature🇨🇳 , film🎬 , anime📺 , digital products📱. 
-- 📫 How to reach me: leeyomwang@163.com. 
-- 😄 Pronouns: He/Him 
-- 🤩 keep learning, keep thinking, keep running.
-- 🏃 My Running Record：https://running.leeyom.top
+- 🔭 我目前正在坚持写作，以记录我在日常工作效率方面的进步，因为我正在与拖延症作斗争。
+- 🌱 我目前正在学习一名新的语言：Swift
+- 💬 可以和我一起讨论：运动🏃🏻‍♂️ 、电影🎬 、动漫📺 、数码产品📱 
+- 📫 我的邮箱: leeyomwang@163.com
+- 🏃 我的跑步记录：https://running.leeyom.top
+- 🏠 我的博客：https://blog.leeyom.top
 
 |                   **Most Used Languages**                    |                **Github Stats**                |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
