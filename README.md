@@ -11,7 +11,7 @@
 - 🏠 我的博客：https://blog.leeyom.top
 
 
-## 我的跑步记录
+## 跑步记录
 
 2021 年跑步记录：
 
@@ -21,7 +21,7 @@
 
 ## 代码统计
 
-<a href="https://github.com/superleeyom"><br/>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=superleeyom&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true" /><br/></a>
+<a href="https://github.com/superleeyom"><br/>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=superleeyom&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" /><br/></a>
 
 ## 联系方式
 
