@@ -12,9 +12,14 @@
 
 
 ## 我的跑步记录
-[![running](https://github.com/superleeyom/running_page/blob/master/assets/github.svg)](https://running.leeyom.top/)
 
-## Github 统计
+2021年跑步记录：
+
+[![running](https://raw.githubusercontent.com/superleeyom/running_page/master/assets/github_2021.svg)](https://running.leeyom.top/)
+
+更多跑步记录，请参见：[Leeyom’s Running Record](https://running.leeyom.top/)
+
+## Github统计
 
 <a href="https://github.com/superleeyom"><br/>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=superleeyom&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true" /><br/></a>
 
