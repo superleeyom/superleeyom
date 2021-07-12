@@ -13,7 +13,7 @@
 
 ## 我的跑步记录
 
-2021年跑步记录：
+2021 年跑步记录：
 
 [![running](https://raw.githubusercontent.com/superleeyom/running_page/master/assets/github_2021.svg)](https://running.leeyom.top/)
 
