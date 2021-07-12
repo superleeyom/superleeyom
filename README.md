@@ -16,9 +16,7 @@
 
 ## Github 统计
 
-|                   **编程语言**                    |                **Github 统计**                |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <a href="https://github.com/superleeyom"><br/>  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superleeyom&hide=javascript,html,css&hide_border=true&hide_title=true" /><br/></a> | <a href="https://github.com/superleeyom"><br/>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=superleeyom&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true" /><br/></a> |
+<a href="https://github.com/superleeyom"><br/>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=superleeyom&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true" /><br/></a>
 
 ## 联系方式
 
