@@ -19,10 +19,10 @@
 
 更多跑步记录，请参见：[Leeyom’s Running Record](https://running.leeyom.top/)
 
-## Github统计
+## 代码统计
 
 <a href="https://github.com/superleeyom"><br/>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=superleeyom&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true" /><br/></a>
 
 ## 联系方式
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/superleeyom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/super_leeyom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/super_leeyom)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/superleeyom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/super_leeyom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/super_leeyom)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='telegram' height='40'>](mailto:leeyomwang@163.com)
