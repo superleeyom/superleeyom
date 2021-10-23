@@ -3,8 +3,7 @@ My name is Leeyom and I am currently a back-end (Java☕️) development enginee
 
 I like: running🏃🏻, swimming🏊🏻, riding🚴🏻, reading📖, watching TV🎬
 
-- 🔭 I am now continuing to write to record my progress in daily work and life efficiency because I am struggling with procrastination
-- 🌱 I am currently learning a new language: Swift/SwiftUI()
+- 🔭 I am currently learning a new language: Swift/SwiftUI()
 - 💬 You can discuss with me: sports🏃🏻‍♂️, film📺, digital products📱, books📚
 - 📫 My Email：leeyomwang@163.com
 - 🏃 My Running record：https://running.leeyom.top
