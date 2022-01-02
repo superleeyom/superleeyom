@@ -12,9 +12,9 @@ I like: running🏃🏻, swimming🏊🏻, riding🚴🏻, reading📖, watching
 
 ## 🏃Running Record
 
-2021 running record：
+2022 running record：
 
-[![running](https://raw.githubusercontent.com/superleeyom/running_page/master/assets/github_2021.svg)](https://running.leeyom.top/)
+[![running](https://raw.githubusercontent.com/superleeyom/running_page/master/assets/github_2022.svg)](https://running.leeyom.top/)
 
 For more running records, please see：[Leeyom’s Running Record](https://running.leeyom.top/)
 
