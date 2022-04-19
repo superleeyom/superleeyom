@@ -1,6 +1,6 @@
 ## 👋Hi 
 
-哈罗，我叫 Leeyom，目前工作生活在[长沙](https://github.com/chuyao/changsha-IT)，目前是一名后端工程师（Java ☕️）
+哈罗，我叫 Leeyom，目前工作生活在[长沙🌶](https://github.com/chuyao/changsha-IT)，目前是一名后端工程师 👨🏻‍💻（Java ☕️）
 
 我喜欢：[跑步](https://running.leeyom.top) 🏃🏻，[游泳](https://www.strava.com/athletes/leeyom) 🏊🏻，[骑行](https://www.strava.com/athletes/leeyom) 🚴🏻，读书 📖，追剧 🎬
 
