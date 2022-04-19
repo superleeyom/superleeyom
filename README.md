@@ -9,7 +9,7 @@
 - 📮 我的邮箱：leeyomwang@163.com
 - 🏃 我的跑步记录：https://running.leeyom.top
 - 🏠 我的博客：https://blog.leeyom.top
-- ☎️ 我的Telegram：[@super_leeyom](https://t.me/super_leeyom)
+- ☎️ 我的 Telegram：[@super_leeyom](https://t.me/super_leeyom)
 - 🐧 我的 Twitter：[@super_leeyom](https://twitter.com/super_leeyom)
 
 如果你有什么想和我交流的，欢迎和我联系💬
