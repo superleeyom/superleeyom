@@ -1,12 +1,12 @@
 ## 👋Hi 
-My name is Leeyom and I am currently a back-end (Java☕️) development engineer.
+哈罗，我叫 Leeyom，目前生活在长沙，我目前是一名后端工程师（Java）
 
-I like: [running](https://running.leeyom.top)🏃🏻, swimming🏊🏻, riding🚴🏻, reading📖, watching TV🎬
+我喜欢: [跑步](https://running.leeyom.top)🏃🏻, [游泳](https://www.strava.com/athletes/76955068)🏊🏻, [骑行](https://www.strava.com/athletes/76955068)🚴🏻, 读书📖, 追剧🎬
 
-- 🔭 I am currently learning a new language: Swift/SwiftUI()
-- 💬 You can discuss with me: sports🏃🏻‍♂️, film📺, digital products📱, books📚
-- 📫 My Email：leeyomwang@163.com
-- 🏃 My Running record：https://running.leeyom.top
-- 🏠 My Blog：https://blog.leeyom.top
-- ☎️ My Telegram：[@super_leeyom](https://t.me/super_leeyom)
-- 🐧 My Twitter：[@super_leeyom](https://twitter.com/super_leeyom)
+- 🔭 我目前正在学习一名新的语言: Swift/SwiftUI()
+- 💬 你可以和我讨论: 运动🏃🏻‍♂️, 电影📺, 数码产品📱, 读书📚
+- 📮 我的邮箱：leeyomwang@163.com
+- 🏃 我的跑步记录：https://running.leeyom.top
+- 🏠 我的博客：https://blog.leeyom.top
+- ☎️ 我的Telegram：[@super_leeyom](https://t.me/super_leeyom)
+- 🐧 我的 Twitter：[@super_leeyom](https://twitter.com/super_leeyom)
