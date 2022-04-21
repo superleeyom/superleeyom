@@ -28,7 +28,7 @@
 ![](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=fff)
 ![](https://img.shields.io/badge/-Oracle-ff0000?style=flat-square&logo=oracle&logoColor=fff)
 ![](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/redis-CC0000.svg?&style=flat-square&logo=redis&logoColor=white)
 ![](https://img.shields.io/badge/-Mongodb-green?style=flat-square&logo=mongodb&logoColor=fff)
 ![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)
 ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
