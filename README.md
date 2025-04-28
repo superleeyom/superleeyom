@@ -1,6 +1,6 @@
 ## 👋Hi 
 
-- 👋 哈罗，我叫 Leeyom（由我名字的拼音 lǐ yǒng 音译过来的 🤣），目前工作生活在[长沙🔥](https://github.com/chuyao/changsha-IT)，是一名后端工程师 👨🏻‍💻（Java ☕️）
+- 👋 哈罗，我叫 Leeyom（由我名字的拼音 lǐ yǒng 音译过来的 🤣），目前工作生活在[长沙](https://github.com/chuyao/changsha-IT)，是一名后端工程师 👨🏻‍💻（Java ☕️）
 - ❤️ 我喜欢：[跑步](https://running.leeyom.top) 🏃🏻，[骑行](https://www.strava.com/athletes/leeyom) 🚴🏻，[游泳](https://www.strava.com/athletes/leeyom) 🏊🏻，读书 📖，追剧 🎬
 - 💬 你可以和我讨论：运动 🏃🏻‍♂️，电影 📺，数码产品 📱，读书 📚
 - 📮 我的邮箱：leeyomwang@163.com
